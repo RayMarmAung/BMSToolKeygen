@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BMS.ico</file>
+    </qresource>
+</RCC>
